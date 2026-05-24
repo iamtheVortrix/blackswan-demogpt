@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>BLACK SWAN | Premium Hair, Beauty & Grooming Salon | Kurla West</title>
+
+<meta name="description"
+content="BLACK SWAN Salon in Kurla West Mumbai. Trusted by 535+ happy clients with 4.7★ rating. Haircuts, Hair Color, Keratin, Hair Botox, Facials, Bridal Makeup and Grooming Services.">
+
+<meta name="theme-color" content="#0f0f0f">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+
+<header class="navbar">
+
+<div class="container nav-inner">
+
+<a href="#" class="logo">
+BLACK SWAN
+</a>
+
+<nav>
+
+<a href="#about">About</a>
+
+<a href="#services">Services</a>
+
+<a href="#reviews">Reviews</a>
+
+<a href="#contact">Contact</a>
+
+</nav>
+
+<a href="tel:07779876544" class="nav-btn">
+Book Now
+</a>
+
+</div>
+
+</header>
+
+<!-- HERO -->
+
+<section class="hero">
+
+<div class="hero-overlay"></div>
+
+<div class="container hero-content">
+
+<div class="trust-pill">
+⭐ 4.7 Rating • 535+ Reviews • Kurla West
+</div>
+
+<h1>
+
+Hair Transformations
+That Speak For
+Themselves.
+
+</h1>
+
+<p>
+
+Professional hair, beauty and grooming services trusted by hundreds of clients across Kurla West.
+
+From everyday styling to complete makeovers, every appointment begins with understanding what works best for you.
+
+</p>
+
+<div class="hero-buttons">
+
+<a href="tel:07779876544" class="primary-btn">
+
+Book Appointment
+
+</a>
+
+<a href="#services" class="secondary-btn">
+
+Explore Services
+
+</a>
+
+</div>
+
+<div class="hero-stats">
+
+<div>
+
+<h3>535+</h3>
+
+<span>Happy Reviews</span>
+
+</div>
+
+<div>
+
+<h3>4.7★</h3>
+
+<span>Google Rating</span>
+
+</div>
+
+<div>
+
+<h3>Open</h3>
+
+<span>Till 9 PM</span>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- STORY -->
+
+<section class="story" id="about">
+
+<div class="container">
+
+<div class="section-heading">
+
+<span>WHY PEOPLE RETURN</span>
+
+<h2>
+
+More Than A Salon.
+A Place Clients Trust.
+
+</h2>
+
+</div>
+
+<div class="story-grid">
+
+<div class="story-card">
+
+<h3>Personal Consultation</h3>
+
+<p>
+
+Every transformation starts with understanding your hair, skin and goals before recommending a service.
+
+</p>
+
+</div>
+
+<div class="story-card">
+
+<h3>Professional Team</h3>
+
+<p>
+
+Friendly specialists focused on quality, consistency and results that suit you.
+
+</p>
+
+</div>
+
+<div class="story-card">
+
+<h3>Long-Term Relationships</h3>
+
+<p>
+
+Many clients have trusted BLACK SWAN for years because the experience remains reliable every visit.
+
+</p>
+
+</div>
+
+<div class="story-card">
+
+<h3>Comfortable Experience</h3>
+
+<p>
+
+Relaxing atmosphere, attentive staff and a focus on making every appointment enjoyable.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- SERVICES -->
+
+<section id="services" class="services">
+
+<div class="container">
+
+<div class="section-heading">
+
+<span>SIGNATURE SERVICES</span>
+
+<h2>
+
+Everything You Need
+For Hair, Beauty & Grooming
+
+</h2>
+
+</div>
+
+<div class="service-grid">
+
+<div class="service-card">
+
+<h3>Hair Styling</h3>
+
+<p>
+
+Haircuts, styling, professional finishing and modern looks tailored to you.
+
+</p>
+
+</div>
+
+<div class="service-card">
+
+<h3>Hair Colouring</h3>
+
+<p>
+
+Hair colour, highlights, balayage and colour transformations.
+
+</p>
+
+</div>
+
+<div class="service-card">
+
+<h3>Keratin & Smoothening</h3>
+
+<p>
+
+Frizz control, smoother texture and easier everyday maintenance.
+
+</p>
+
+</div>
+
+<div class="service-card">
+
+<h3>Hair Botox</h3>
+
+<p>
+
+Repair damaged hair, improve shine and restore softness.
+
+</p>
+
+</div>
+
+<div class="service-card">
+
+<h3>Facials & Skin Care</h3>
+
+<p>
+
+Hydra facial, D-Tan, cleanup and skin glow treatments.
+
+</p>
+
+</div>
+
+<div class="service-card">
+
+<h3>Bridal Makeup</h3>
+
+<p>
+
+Complete bridal and special occasion beauty packages.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- TRANSFORMATION SECTION -->
+
+<section class="transformation">
+
+<div class="container">
+
+<div class="section-heading">
+
+<span>REAL RESULTS</span>
+
+<h2>
+
+The Difference
+You Can See.
+
+</h2>
+
+<p>
+
+Whether it's a fresh haircut, hair colour transformation,
+keratin treatment or complete styling makeover,
+our goal is simple:
+
+Help you leave looking better than you arrived.
+
+</p>
+
+</div>
+
+<div class="transformation-grid">
+
+<div class="gallery-card">
+
+<div class="gallery-image"></div>
+
+<h3>Hair Transformation</h3>
+
+<p>
+Modern cuts, styling and complete confidence upgrades.
+</p>
+
+</div>
+
+<div class="gallery-card">
+
+<div class="gallery-image"></div>
+
+<h3>Colour Makeover</h3>
+
+<p>
+Professional colouring designed to suit your look.
+</p>
+
+</div>
+
+<div class="gallery-card">
+
+<div class="gallery-image"></div>
+
+<h3>Keratin Results</h3>
+
+<p>
+Smoother, healthier and easier-to-manage hair.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- FEATURED OFFER -->
+
+<section class="featured-offer">
+
+<div class="container">
+
+<div class="offer-card">
+
+<div class="offer-content">
+
+<span class="offer-tag">
+
+POPULAR TREATMENT
+
+</span>
+
+<h2>
+
+Hair Botox Treatment
+
+</h2>
+
+<p>
+
+Repair damaged hair, reduce frizz,
+restore shine and improve texture.
+
+Suitable for all hair types.
+
+</p>
+
+<ul>
+
+<li>Repairs damaged hair</li>
+
+<li>Controls frizz & dryness</li>
+
+<li>Improves shine</li>
+
+<li>Long-lasting smooth finish</li>
+
+</ul>
+
+<div class="offer-price">
+
+Starting From ₹3499
+
+</div>
+
+<a href="tel:07779876544"
+class="primary-btn">
+
+Book Consultation
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- REVIEWS -->
+
+<section id="reviews" class="reviews">
+
+<div class="container">
+
+<div class="section-heading">
+
+<span>CLIENT EXPERIENCES</span>
+
+<h2>
+
+Trusted By Hundreds
+Of Happy Clients.
+
+</h2>
+
+</div>
+
+<div class="review-grid">
+
+<div class="review-card">
+
+<div class="stars">
+★★★★★
+</div>
+
+<p>
+
+I've been visiting BLACK SWAN for years.
+
+The consultation process,
+friendly team and consistent quality
+keep bringing me back.
+
+</p>
+
+<h4>
+Long-Term Client
+</h4>
+
+</div>
+
+<div class="review-card">
+
+<div class="stars">
+★★★★★
+</div>
+
+<p>
+
+Professional staff,
+comfortable experience
+and excellent results every time.
+
+Worth every rupee.
+
+</p>
+
+<h4>
+Verified Customer
+</h4>
+
+</div>
+
+<div class="review-card">
+
+<div class="stars">
+★★★★★
+</div>
+
+<p>
+
+One of the most trusted salons
+for hair styling and treatments.
+
+Friendly guidance and amazing service.
+
+</p>
+
+<h4>
+Returning Customer
+</h4>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- EXPERIENCE -->
+
+<section class="experience">
+
+<div class="container">
+
+<div class="section-heading">
+
+<span>THE EXPERIENCE</span>
+
+<h2>
+
+What Happens
+When You Visit BLACK SWAN
+
+</h2>
+
+</div>
+
+<div class="experience-grid">
+
+<div class="experience-step">
+
+<span>01</span>
+
+<h3>Consultation</h3>
+
+<p>
+
+We understand your goals,
+hair type and preferences.
+
+</p>
+
+</div>
+
+<div class="experience-step">
+
+<span>02</span>
+
+<h3>Recommendation</h3>
+
+<p>
+
+Professional advice based on
+what suits you best.
+
+</p>
+
+</div>
+
+<div class="experience-step">
+
+<span>03</span>
+
+<h3>Treatment</h3>
+
+<p>
+
+Delivered by experienced
+beauty and grooming professionals.
+
+</p>
+
+</div>
+
+<div class="experience-step">
+
+<span>04</span>
+
+<h3>Final Styling</h3>
+
+<p>
+
+Walk out looking refreshed,
+confident and ready.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- FINAL CTA -->
+
+<section class="cta">
+
+<div class="container">
+
+<h2>
+
+Ready For Your Next Transformation?
+
+</h2>
+
+<p>
+
+Whether it's a haircut,
+hair colouring,
+bridal makeup,
+hair spa,
+keratin treatment
+or a complete makeover,
+our team is ready to help.
+
+</p>
+
+<div class="cta-buttons">
+
+<a href="tel:07779876544"
+class="primary-btn">
+
+Call Now
+
+</a>
+
+<a href="#contact"
+class="secondary-btn">
+
+Visit Salon
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- CONTACT -->
+
+<section id="contact" class="contact">
+
+<div class="container">
+
+<div class="contact-card">
+
+<h2>
+
+Visit BLACK SWAN
+
+</h2>
+
+<p>
+
+Chotta Gol Building,
+New Mill Road,
+Chhadva Nagar,
+Kurla West,
+Mumbai – 400070
+
+</p>
+
+<p>
+
+Phone:
+07779876544
+
+</p>
+
+<p>
+
+Open Daily
+Until 9 PM
+
+</p>
+
+<a href="tel:07779876544"
+class="primary-btn">
+
+Book Appointment
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- FOOTER -->
+
+<footer>
+
+<div class="container">
+
+<div class="footer-content">
+
+<h3>BLACK SWAN</h3>
+
+<p>
+
+Premium Hair, Beauty &
+Grooming Salon
+in Kurla West.
+
+</p>
+
+<div class="footer-bottom">
+
+<span>
+4.7★ Rating
+</span>
+
+<span>
+535+ Reviews
+</span>
+
+<span>
+Mumbai
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</footer>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
